@@ -4,6 +4,17 @@
 	font-family: 'Open Sans', sans-serif;
 }
 
+.strong {
+	color: #000;
+}
+
+.weak {
+	color: lightgray;
+}
+
+.line {
+
+}
 
 .me {
 
